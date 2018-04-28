@@ -189,7 +189,7 @@ class DragonBot extends TelegramLongPollingBot{
     }
     @Override
     public String getBotToken() {
-        return "498067716:AAFIwfyWSyuubeuNqxMKCpw_JJL0yMjC-rY";
+        return "Hahaha no";
     }
 
     private void dispath(String text, boolean silence) {
